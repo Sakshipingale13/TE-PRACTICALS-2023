@@ -1,5 +1,5 @@
-**TE Practical Repository
-**
+TE Practical Repository
+
 Welcome to the TE Practical Repository, which contains practical assignments for the following subjects:
 
 DSBDA (Data Science & Big Data Analytics)
